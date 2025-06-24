@@ -1,0 +1,19 @@
+{
+    "tiles_per_row": 4, 
+    "frame": {
+        "width": 64, 
+        "height": 64
+    }, 
+    "spacing": {
+        "horizontal": 4, 
+        "vertical": 4
+    }, 
+    "bounds": {
+        "width": 268, 
+        "top": 0, 
+        "height": 268, 
+        "left": 0
+    }, 
+    "nframes": 16, 
+    "offset": 0
+}

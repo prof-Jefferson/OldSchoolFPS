@@ -1,0 +1,1313 @@
+fileFormatVersion: 2
+guid: bec85f0d60da7ad4cbafb98df8815575
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2727554024237536385
+    second: pov_weapons_64x64_0
+  - first:
+      213: 8304785747495660194
+    second: pov_weapons_64x64_1
+  - first:
+      213: -7774381671066629473
+    second: pov_weapons_64x64_2
+  - first:
+      213: 7631513694186758205
+    second: pov_weapons_64x64_3
+  - first:
+      213: -7410646679129670165
+    second: pov_weapons_64x64_4
+  - first:
+      213: 1698081434508292390
+    second: pov_weapons_64x64_5
+  - first:
+      213: 5279840351277368473
+    second: pov_weapons_64x64_6
+  - first:
+      213: 2015448939169921847
+    second: pov_weapons_64x64_7
+  - first:
+      213: -3163013310181903262
+    second: pov_weapons_64x64_8
+  - first:
+      213: -7047698321455619756
+    second: pov_weapons_64x64_9
+  - first:
+      213: -3556460972022224365
+    second: pov_weapons_64x64_10
+  - first:
+      213: 8319976893412836661
+    second: pov_weapons_64x64_11
+  - first:
+      213: 6682477024832926446
+    second: pov_weapons_64x64_12
+  - first:
+      213: -8742542440732281245
+    second: pov_weapons_64x64_13
+  - first:
+      213: 3889581745637552447
+    second: pov_weapons_64x64_14
+  - first:
+      213: 93145920032797809
+    second: pov_weapons_64x64_15
+  - first:
+      213: 4834457337758554334
+    second: pov_weapons_64x64_16
+  - first:
+      213: -3062399745678578717
+    second: pov_weapons_64x64_17
+  - first:
+      213: 1321109084477574817
+    second: pov_weapons_64x64_18
+  - first:
+      213: 3978470498052535355
+    second: pov_weapons_64x64_19
+  - first:
+      213: -397422645430817698
+    second: pov_weapons_64x64_20
+  - first:
+      213: -9114132468321284741
+    second: pov_weapons_64x64_21
+  - first:
+      213: -7170100491535065690
+    second: pov_weapons_64x64_22
+  - first:
+      213: -2134573436671688286
+    second: pov_weapons_64x64_23
+  - first:
+      213: 1064913951468864048
+    second: pov_weapons_64x64_24
+  - first:
+      213: 3816790564799625032
+    second: pov_weapons_64x64_25
+  - first:
+      213: -8135269984336683113
+    second: pov_weapons_64x64_26
+  - first:
+      213: 241964328989021129
+    second: pov_weapons_64x64_27
+  - first:
+      213: 7448118796569231340
+    second: pov_weapons_64x64_28
+  - first:
+      213: -5126734364244684560
+    second: pov_weapons_64x64_29
+  - first:
+      213: -7679161458047547542
+    second: pov_weapons_64x64_30
+  - first:
+      213: 4345594917289312433
+    second: pov_weapons_64x64_31
+  - first:
+      213: 8719499048088978664
+    second: pov_weapons_64x64_32
+  - first:
+      213: 6194591561750233812
+    second: pov_weapons_64x64_33
+  - first:
+      213: -5228910363778102041
+    second: pov_weapons_64x64_34
+  - first:
+      213: -2456979820522217230
+    second: pov_weapons_64x64_35
+  - first:
+      213: -2505081015120721428
+    second: pov_weapons_64x64_36
+  - first:
+      213: -2720015622658603581
+    second: pov_weapons_64x64_37
+  - first:
+      213: 6325859877282287434
+    second: pov_weapons_64x64_38
+  - first:
+      213: 7914684205766060508
+    second: pov_weapons_64x64_39
+  - first:
+      213: -1779955777796079979
+    second: pov_weapons_64x64_40
+  - first:
+      213: -3392983650827109043
+    second: pov_weapons_64x64_41
+  - first:
+      213: -1589000880918246291
+    second: pov_weapons_64x64_42
+  - first:
+      213: -4465124747323476883
+    second: pov_weapons_64x64_43
+  - first:
+      213: 5868381011935373785
+    second: pov_weapons_64x64_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pov_weapons_64x64_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 396
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b62afe018c52ad0800000000000000
+      internalID: -2727554024237536385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 396
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aaa43ff2a6804370800000000000000
+      internalID: 8304785747495660194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 396
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a04c38f09db1490800000000000000
+      internalID: -7774381671066629473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 396
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30e788754598e960800000000000000
+      internalID: 7631513694186758205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 396
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed3c8ecb18182990800000000000000
+      internalID: -7410646679129670165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_5
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 396
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6217d8f511cc09710800000000000000
+      internalID: 1698081434508292390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_6
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 396
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99449a063d2c54940800000000000000
+      internalID: 5279840351277368473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 330
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b3922c12058fb10800000000000000
+      internalID: 2015448939169921847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 330
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26476ca1728ba14d0800000000000000
+      internalID: -3163013310181903262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 330
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451658987bb813e90800000000000000
+      internalID: -7047698321455619756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 330
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a2311c699e4aec0800000000000000
+      internalID: -3556460972022224365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 330
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535845747ee767370800000000000000
+      internalID: 8319976893412836661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_12
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 330
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee230e4e27decbc50800000000000000
+      internalID: 6682477024832926446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366306a58ff3ca680800000000000000
+      internalID: -8742542440732281245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_14
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 264
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31f1916df19af530800000000000000
+      internalID: 3889581745637552447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 264
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174f4d388bbea4100800000000000000
+      internalID: 93145920032797809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_16
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 264
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed811eaa551771340800000000000000
+      internalID: 4834457337758554334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_17
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 264
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebe49618ab2085d0800000000000000
+      internalID: -3062399745678578717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_18
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 264
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aec3d976b5855210800000000000000
+      internalID: 1321109084477574817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 198
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34fac1d6dd563730800000000000000
+      internalID: 3978470498052535355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_20
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 198
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c6669a5321c7af0800000000000000
+      internalID: -397422645430817698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_21
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 198
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d0bdd0fc8148180800000000000000
+      internalID: -9114132468321284741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_22
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 198
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6add23e779fae7c90800000000000000
+      internalID: -7170100491535065690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_23
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 198
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a10330d4c87062e0800000000000000
+      internalID: -2134573436671688286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_24
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 198
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032c8a1c89557ce00800000000000000
+      internalID: 1064913951468864048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 164
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847b1f4ebc6f7f430800000000000000
+      internalID: 3816790564799625032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_26
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fd6bf3d07b91f80800000000000000
+      internalID: -8135269984336683113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3d4b57641ab5300800000000000000
+      internalID: 241964328989021129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_28
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef3b6a65980d5760800000000000000
+      internalID: 7448118796569231340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_29
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f05861224e2ad8b0800000000000000
+      internalID: -5126734364244684560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_30
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67843007532e6590800000000000000
+      internalID: -7679161458047547542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_31
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 132
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0c5c6ad87ae4c30800000000000000
+      internalID: 4345594917289312433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_32
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 158
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e443b4bf22e10970800000000000000
+      internalID: 8719499048088978664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_33
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 158
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d241ce743c97f550800000000000000
+      internalID: 6194591561750233812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecc5a46abd2f67b0800000000000000
+      internalID: -5228910363778102041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_35
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f06871fedd07edd0800000000000000
+      internalID: -2456979820522217230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_36
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 66
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce98728d61a2c3dd0800000000000000
+      internalID: -2505081015120721428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_37
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 66
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5cbe3d330904ad0800000000000000
+      internalID: -2720015622658603581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_38
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 66
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f8e44ea08f9c750800000000000000
+      internalID: 6325859877282287434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_39
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9a412f95b96dd60800000000000000
+      internalID: 7914684205766060508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e7f8496a35c47e0800000000000000
+      internalID: -1779955777796079979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_41
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4dfdbba853b9e0d0800000000000000
+      internalID: -3392983650827109043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_42
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cc5112e1cb2f9e0800000000000000
+      internalID: -1589000880918246291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_43
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d647af513b0b802c0800000000000000
+      internalID: -4465124747323476883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pov_weapons_64x64_44
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d92e07307da07150800000000000000
+      internalID: 5868381011935373785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 79d8db9fbd266c34a9abd45be1f10972
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pov_weapons_64x64_0: -2727554024237536385
+      pov_weapons_64x64_1: 8304785747495660194
+      pov_weapons_64x64_10: -3556460972022224365
+      pov_weapons_64x64_11: 8319976893412836661
+      pov_weapons_64x64_12: 6682477024832926446
+      pov_weapons_64x64_13: -8742542440732281245
+      pov_weapons_64x64_14: 3889581745637552447
+      pov_weapons_64x64_15: 93145920032797809
+      pov_weapons_64x64_16: 4834457337758554334
+      pov_weapons_64x64_17: -3062399745678578717
+      pov_weapons_64x64_18: 1321109084477574817
+      pov_weapons_64x64_19: 3978470498052535355
+      pov_weapons_64x64_2: -7774381671066629473
+      pov_weapons_64x64_20: -397422645430817698
+      pov_weapons_64x64_21: -9114132468321284741
+      pov_weapons_64x64_22: -7170100491535065690
+      pov_weapons_64x64_23: -2134573436671688286
+      pov_weapons_64x64_24: 1064913951468864048
+      pov_weapons_64x64_25: 3816790564799625032
+      pov_weapons_64x64_26: -8135269984336683113
+      pov_weapons_64x64_27: 241964328989021129
+      pov_weapons_64x64_28: 7448118796569231340
+      pov_weapons_64x64_29: -5126734364244684560
+      pov_weapons_64x64_3: 7631513694186758205
+      pov_weapons_64x64_30: -7679161458047547542
+      pov_weapons_64x64_31: 4345594917289312433
+      pov_weapons_64x64_32: 8719499048088978664
+      pov_weapons_64x64_33: 6194591561750233812
+      pov_weapons_64x64_34: -5228910363778102041
+      pov_weapons_64x64_35: -2456979820522217230
+      pov_weapons_64x64_36: -2505081015120721428
+      pov_weapons_64x64_37: -2720015622658603581
+      pov_weapons_64x64_38: 6325859877282287434
+      pov_weapons_64x64_39: 7914684205766060508
+      pov_weapons_64x64_4: -7410646679129670165
+      pov_weapons_64x64_40: -1779955777796079979
+      pov_weapons_64x64_41: -3392983650827109043
+      pov_weapons_64x64_42: -1589000880918246291
+      pov_weapons_64x64_43: -4465124747323476883
+      pov_weapons_64x64_44: 5868381011935373785
+      pov_weapons_64x64_5: 1698081434508292390
+      pov_weapons_64x64_6: 5279840351277368473
+      pov_weapons_64x64_7: 2015448939169921847
+      pov_weapons_64x64_8: -3163013310181903262
+      pov_weapons_64x64_9: -7047698321455619756
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
