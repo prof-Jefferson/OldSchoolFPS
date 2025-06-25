@@ -18,11 +18,13 @@ Este projeto é parte de uma aula introdutória ao desenvolvimento de jogos digi
 
 Todos os assets utilizados neste projeto estão sob a licença **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 
-| Tipo      | Fonte | Link |
-|-----------|-------|------|
+| Tipo                       | Fonte                                              | Link                                                                 |
+|----------------------------|---------------------------------------------------|----------------------------------------------------------------------|
 | **Cenários e personagens FPS** | [opengameart.org](https://opengameart.org/content/rend-fps-game-asset-pack) | [Rend FPS Game Asset Pack](https://opengameart.org/content/rend-fps-game-asset-pack) |
 | **Textura do Planeta**         | [opengameart.org](https://opengameart.org/content/planet-texture-80004000px) | [Planet Texture 8000x4000px](https://opengameart.org/content/planet-texture-80004000px) |
 | **Efeitos sonoros FPS**        | [itch.io](https://lmglolo.itch.io/free-fps-sfx) | [Free FPS SFX Pack by lmglolo](https://lmglolo.itch.io/free-fps-sfx) |
+| **Skybox "Milkyway.jpg"**      | [hdrlabs.com](http://www.hdrlabs.com/sibl/archive.html) | [sIBL Archive - Milkyway](http://www.hdrlabs.com/sibl/archive.html) |
+
 
 > ✅ Todos os autores foram devidamente creditados conforme exigido pela licença.
 
