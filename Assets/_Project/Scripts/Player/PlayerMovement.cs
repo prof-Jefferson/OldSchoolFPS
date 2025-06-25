@@ -7,7 +7,8 @@ public class PlayerMovement : MonoBehaviour
     public float moveSpeed = 5f;
 
     private Rigidbody2D rb;
-    private Vector2 movement;
+    private Vector2 input;
+    private Vector2 moveDirection;
 
     void Start()
     {
@@ -16,15 +17,21 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        // Captura input (teclas W, A, S, D ou setas)
-        float moveY = Input.GetAxisRaw("Horizontal"); // A/D ou ← →
-        float moveX = Input.GetAxisRaw("Vertical");   // W/S ou ↑ ↓
-        movement = new Vector2(moveX, (-1*(moveY))).normalized;
+        // Captura do input do jogador
+        float vertical = (-1*(Input.GetAxisRaw("Horizontal")));     // A/D
+        float horizontal = Input.GetAxisRaw("Vertical");            // W/S
+        input = new Vector2(horizontal, vertical).normalized;
+
+        // Calcula a direção com base na rotação atual do player
+        Vector2 forward = transform.up;
+        Vector2 right = transform.right;
+
+        // Move na direção rotacionada
+        moveDirection = (right * input.x + forward * input.y).normalized;
     }
 
     void FixedUpdate()
     {
-        // Movimento baseado em física
-        rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
+        rb.MovePosition(rb.position + moveDirection * moveSpeed * Time.fixedDeltaTime);
     }
 }
